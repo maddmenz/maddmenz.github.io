@@ -16,18 +16,20 @@
 <li><a href="https://access.almo.com">almo</a></li>
 </ul>
 
-
+<h1>audio</h1>
 <table>
   <tr>
-    <th>mfg audio </th>
+    <th>shure</th>
+    <th>biamp</th>
   </tr>
   <tr>
     <td><a href="https://shure.widen.net/s/lzmdfx9sxh/wireless_comparisonchart_en_us">shure wireless mic comparison</a></td>
-  </tr>
-  <tr>
     <td><a href="https://www.biamp.com/archives/product-categories-archives2024/all-products-archive">biamp product list</a></td>
   </tr>
 
+  <tr>
+    <td><a href="https://techportal.shure.com/en/">shure tech portal - product info</a></td>
+  </tr>
   
 </table>
 
