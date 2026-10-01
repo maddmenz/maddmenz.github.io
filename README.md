@@ -18,9 +18,13 @@
 
 
 <table>
-<th>mfg audio </th>
-<td><a href="https://shure.widen.net/s/lzmdfx9sxh/wireless_comparisonchart_en_us">shure wireless mic comparison</a></td>
-<td><a href="https://www.biamp.com/archives/product-categories-archives2024/all-products-archive">biamp product list</a></td>
+  <tr>
+    <th>mfg audio </th>
+  </tr>
+  <tr>
+    <td><a href="https://shure.widen.net/s/lzmdfx9sxh/wireless_comparisonchart_en_us">shure wireless mic comparison</a></td>
+    <td><a href="https://www.biamp.com/archives/product-categories-archives2024/all-products-archive">biamp product list</a></td>
+  </tr>
 
   
 </table>
