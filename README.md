@@ -1,7 +1,7 @@
 <html>
   
 <body style="background-color:#bfbfbf;">
-<img src="logo.png" height="64">
+<img src="logo.png" height="64" background-color="#bfbfbf">
 <p>mddmnz-lnx</p>
 <ul style="background-color:#bfbfbf;">
 <li><a href="https://support.biamp.com/Tesira/Software-Firmware">Tesira</a></li>
