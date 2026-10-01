@@ -10,6 +10,10 @@
 <li><a href="https://www.icloud.com/notes/">iCloud Notes</a></li>
 <li><a href="https://help.crestron.com/simpl/">simpl</a></li>
 <li><a href="https://techs.sageserviceops.com/s100/index">sso</a></li>
+<hr>
+<li><a href="https://partnerfirst.us.tdsynnex.com">td synx</a></li>
+<li><a href="https://www.adiglobaldistribution.us/">adi</a></li>
+<li><a href="https://access.almo.com">almo</a></li>
 </ul>
 
 
